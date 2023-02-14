@@ -1,0 +1,174 @@
+{
+  "BackControlMappingTable": [
+    {
+      "ModbusIP": "10.95.129.2",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "6",
+      "Registers": "9",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53530/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=L",
+      "OPCUAType": "int16"
+    },
+    {
+      "ModbusIP": "192.168.56.1",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "6",
+      "Registers": "9",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53535/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=K",
+      "OPCUAType": "int16"
+    }
+  ],
+  "MappingTable": [
+    {
+      "ModbusIP": "10.95.129.2",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "3",
+      "Registers": "0",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53530/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=A",
+      "OPCUAType": "int16"
+    },
+    {
+      "ModbusIP": "10.95.129.2",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "3",
+      "Registers": "4",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53533/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=C",
+      "OPCUAType": "int16"
+    },
+    {
+      "ModbusIP": "10.95.129.2",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "3",
+      "Registers": "1",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53531/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=B",
+      "OPCUAType": "int32"
+    },
+    {
+      "ModbusIP": "10.95.129.2",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "3",
+      "Registers": "2",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53532/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=B",
+      "OPCUAType": "int32"
+    },
+    {
+      "ModbusIP": "10.95.129.2",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "1",
+      "Registers": "0",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53534/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=D",
+      "OPCUAType": "bool"
+    },
+    {
+      "ModbusIP": "10.95.129.2",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "1",
+      "Registers": "1",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53534/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=E",
+      "OPCUAType": "bool"
+    },
+    {
+      "ModbusIP": "192.168.56.1",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "3",
+      "Registers": "0",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53535/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=F",
+      "OPCUAType": "int16"
+    },
+    {
+      "ModbusIP": "192.168.56.1",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "3",
+      "Registers": "65",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53537/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=G",
+      "OPCUAType": "float"
+    },
+    {
+      "ModbusIP": "192.168.56.1",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "3",
+      "Registers": "66",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53537/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=G",
+      "OPCUAType": "float"
+    },
+    {
+      "ModbusIP": "192.168.56.1",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "3",
+      "Registers": "209",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53539/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=H",
+      "OPCUAType": "int16"
+    },
+    {
+      "ModbusIP": "192.168.56.1",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "1",
+      "Registers": "0",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53536/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=I",
+      "OPCUAType": "bool"
+    },
+    {
+      "ModbusIP": "192.168.56.1",
+      "ModbusPort": "502",
+      "ID": "1",
+      "FunctionCode": "1",
+      "Registers": "1",
+      "ModbusType": "int16",
+      "Length": "1",
+      "OpcuaTcp": "opc.tcp://AA2201503-NB.corpnet.asus:53538/OPCUA/SimulationServer",
+      "NodeID": "ns=3;s=J",
+      "OPCUAType": "bool"
+    }
+  ]
+}
